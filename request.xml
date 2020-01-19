@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Request>
+<Settings name="getRooms">
+<Authentication username="agent" password="agent"/>
+<Hotel id="testhotel" />
+<room_number>01-8</room_number>
+</Settings>
+</Request>
