@@ -1,0 +1,42 @@
+<Response>
+<ServerInfo>
+<Name>DESKTOP-6PNNR53</Name>
+<ResponseTime>22 ms</ResponseTime>
+<DateTime>7/8/2018 2:48:17 PM</DateTime>
+</ServerInfo>
+<ArrayOfRnm_struct_room xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<rnm_struct_room>
+<rm_serial>001</rm_serial>
+<rm_number>102</rm_number>
+<rm_type>DBL-Interno</rm_type>
+<rm_clsdt1 />
+<rm_clsdt2 />
+<rm_status>C</rm_status>
+<rm_dorm>0</rm_dorm>
+<rm_wing>1</rm_wing>
+<rm_bed>0</rm_bed>
+<rm_occ>0</rm_occ>
+<rm_image>http://hotelwiz.com/agents/ws/settings/rooms/RoomImage.aspx?h=YlVab1
+V4V3l2clA2WDZ5YkxuSDU5dGdZW==</rm_image>
+<ArrayOfRec_rooms_gst_max>
+<rec_rooms_gst_max>
+<rgm_gst_type>A</rgm_gst_type>
+<rgm_max>2</rgm_max>
+</rec_rooms_gst_max>
+<rec_rooms_gst_max>
+<rgm_gst_type>C</rgm_gst_type>
+<rgm_max>0</rgm_max>
+</rec_rooms_gst_max>
+<rec_rooms_gst_max>
+<rgm_gst_type>B</rgm_gst_type>
+<rgm_max>0</rgm_max>
+</rec_rooms_gst_max>
+</ArrayOfRec_rooms_gst_max>
+<ArrayOfRnm_struct_room_attributes>
+<rnm_attribute code="1" description="Garden view" />
+<rnm_attribute code="2" description="Sea view" />
+</ArrayOfRnm_struct_room_attributes>
+</rnm_struct_room>
+</ArrayOfRnm_struct_room>
+</Response>
