@@ -1,0 +1,12 @@
+html, body
+{
+  background-color: #0F293C;
+  color: white;
+
+}
+.navbar.navbar-1 .navbar-toggler-icon {
+background-image: url('https://mdbootstrap.com/img/svg/hamburger6.svg?color=000');
+}
+#navbarSupportedContent15{
+  color:white;
+}
